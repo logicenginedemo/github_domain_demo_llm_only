@@ -1,6 +1,6 @@
 {
   "darkMode": true,
-  "nextPage": 3,
+  "nextPage": 4,
   "nextCard": 6,
   "pages": [
     {
@@ -8,13 +8,6 @@
       "title": "Planned",
       "color": "blue",
       "cards": [
-        {
-          "id": "card01",
-          "title": "Build the filter toolbar",
-          "color": "yellow",
-          "content": "Keep the selected status in the URL.",
-          "date": "2026-11-03"
-        },
         {
           "id": "card03",
           "title": "Fix duplicate requests when filters change",
@@ -48,6 +41,20 @@
           "title": "Run the test suite in CI",
           "color": "blue",
           "content": "Run API and browser tests on each pull request.",
+          "date": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": "page03",
+      "title": "Merge conflict",
+      "color": "purple",
+      "cards": [
+        {
+          "id": "card01",
+          "title": "Build the filter toolbar",
+          "color": "yellow",
+          "content": "Keep the selected status in the URL.",
           "date": "2026-11-03"
         }
       ]
