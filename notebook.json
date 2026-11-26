@@ -1,7 +1,7 @@
 {
   "darkMode": true,
   "nextPage": 4,
-  "nextCard": 6,
+  "nextCard": 7,
   "pages": [
     {
       "id": "page01",
@@ -56,6 +56,13 @@
           "color": "yellow",
           "content": "Keep the selected status in the URL.",
           "date": "2026-11-03"
+        },
+        {
+          "id": "card06",
+          "title": "asdfgh",
+          "color": "green",
+          "content": "xfcgvh jklé",
+          "date": "2026-11-26"
         }
       ]
     }
